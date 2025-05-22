@@ -293,6 +293,23 @@ app.put('/projects/:projectId', authenticate, restrictVisitors, async (req, res)
   }
 });
 
+// Helper function for Cloudinary upload
+async function uploadToCloudinary(buffer, folder) {
+  return new Promise((resolve, reject) => {
+    const uploadStream = cloudinary.uploader.upload_stream(
+      {
+        folder: folder,
+        resource_type: 'auto'
+      },
+      (error, result) => {
+        if (error) reject(error);
+        else resolve(result);
+      }
+    );
+    uploadStream.end(buffer);
+  });
+}
+
 // Endpoint për ngarkimin e render-it të një pallati
 app.post('/projects/:projectId/render', authenticate, restrictVisitors, upload.single('render'), async (req, res) => {
   try {
@@ -302,6 +319,8 @@ app.post('/projects/:projectId/render', authenticate, restrictVisitors, upload.s
     if (!buildingId || !req.file) {
       return res.status(400).json({ success: false, error: 'Mungon ID e pallatit ose skedari i render-it' });
     }
+
+    const result = await uploadToCloudinary(req.file.buffer, 'renders');
 
     const projects = await readJsonFile('projects.json', []);
     const projectIndex = projects.findIndex(p => p.id === projectId);
@@ -315,16 +334,7 @@ app.post('/projects/:projectId/render', authenticate, restrictVisitors, upload.s
       return res.status(404).json({ success: false, error: 'Pallati nuk u gjet' });
     }
 
-    const oldRender = project.buildings[buildingIndex].render;
-    if (oldRender) {
-      try {
-        await fs.unlink(path.join(__dirname, oldRender));
-      } catch (err) {
-        console.warn(`Dështoi fshirja e skedarit të vjetër të render-it ${oldRender}: ${err.message}`);
-      }
-    }
-
-    project.buildings[buildingIndex].render = `renders/${req.file.filename}`;
+    project.buildings[buildingIndex].render = result.secure_url;
     await writeJsonFile('projects.json', projects);
     res.json({ success: true });
   } catch (error) {
@@ -464,13 +474,11 @@ app.post('/apartments/:projectId', authenticate, restrictVisitors, upload.fields
       return res.status(400).json({ success: false, error: 'Të gjitha skedarët (planimetria e apartamentit, planimetria e kuqe, planimetria jeshile) janë të detyrueshme' });
     }
 
-    const filePath = `planimetrite/${req.files['file'][0].filename}`;
-    const redFloorPlanPath = `floorplans/${req.files['redFloorPlan'][0].filename}`;
-    const greenFloorPlanPath = `floorplans/${req.files['greenFloorPlan'][0].filename}`;
-
-    console.log(`Apartamenti u ruajt në ${filePath}`);
-    console.log(`Planimetria e kuqe u ruajt në ${redFloorPlanPath}`);
-    console.log(`Planimetria jeshile u ruajt në ${greenFloorPlanPath}`);
+    const [planResult, redFloorPlanResult, greenFloorPlanResult] = await Promise.all([
+      uploadToCloudinary(req.files['file'][0].buffer, 'planimetrite'),
+      uploadToCloudinary(req.files['redFloorPlan'][0].buffer, 'floorplans'),
+      uploadToCloudinary(req.files['greenFloorPlan'][0].buffer, 'floorplans')
+    ]);
 
     const apartments = await readJsonFile(`apartments_project${projectId}.json`, {});
     if (!apartments[buildingId]) {
@@ -487,17 +495,17 @@ app.post('/apartments/:projectId', authenticate, restrictVisitors, upload.fields
     apartments[buildingId][floor].push({
       id: aptId,
       status,
-      plan: filePath,
-      redFloorPlan: redFloorPlanPath,
-      greenFloorPlan: greenFloorPlanPath
+      plan: planResult.secure_url,
+      redFloorPlan: redFloorPlanResult.secure_url,
+      greenFloorPlan: greenFloorPlanResult.secure_url
     });
 
     await writeJsonFile(`apartments_project${projectId}.json`, apartments);
     res.json({
       success: true,
-      filePath,
-      redFloorPlanPath,
-      greenFloorPlanPath
+      filePath: planResult.secure_url,
+      redFloorPlanPath: redFloorPlanResult.secure_url,
+      greenFloorPlanPath: greenFloorPlanResult.secure_url
     });
   } catch (error) {
     console.error('Gabim gjatë shtimit të apartamentit:', error);
@@ -595,26 +603,16 @@ app.post('/floorplans/:projectId', authenticate, restrictVisitors, upload.single
       return res.status(400).json({ success: false, error: 'Mungon kati, ID e pallatit, ose skedari i planimetrisë' });
     }
 
+    const result = await uploadToCloudinary(req.file.buffer, 'floorplans');
+
     const floorplans = await readJsonFile(`floorplans_project${projectId}.json`, {});
     if (!floorplans[buildingId]) {
       floorplans[buildingId] = {};
     }
 
-    // Fshirja e skedarit të vjetër të planimetrisë, nëse ekziston
-    if (floorplans[buildingId][floor]) {
-      try {
-        await fs.unlink(path.join(__dirname, floorplans[buildingId][floor].plan));
-        console.log(`Skedari i vjetër i planimetrisë ${floorplans[buildingId][floor].plan} u fshi.`);
-      } catch (err) {
-        console.warn(`Dështoi fshirja e skedarit të vjetër të planimetrisë ${floorplans[buildingId][floor].plan}: ${err.message}`);
-      }
-    }
-
-    const filePath = `floorplans/${req.file.filename}`;
-    floorplans[buildingId][floor] = { plan: filePath };
+    floorplans[buildingId][floor] = { plan: result.secure_url };
     await writeJsonFile(`floorplans_project${projectId}.json`, floorplans);
-    console.log(`Planimetria u ruajt në ${filePath}`);
-    res.json({ success: true, filePath });
+    res.json({ success: true, filePath: result.secure_url });
   } catch (error) {
     console.error('Gabim gjatë ngarkimit/zëvendësimit të planimetrisë:', error);
     res.status(500).json({ success: false, error: error.message });
