@@ -1,0 +1,2304 @@
+{
+  "Pallati 1": {
+    "1": [
+      {
+        "id": "1A",
+        "status": "available",
+        "plan": "planimetrite/1747312755072-464545279.png",
+        "redFloorPlan": "floorplans/1747312755075-9797568.png",
+        "greenFloorPlan": "floorplans/1747312755080-612353433.png"
+      },
+      {
+        "id": "1B",
+        "status": "available",
+        "plan": "planimetrite/1747313020931-38190329.png",
+        "redFloorPlan": "floorplans/1747313020934-712072112.png",
+        "greenFloorPlan": "floorplans/1747313020939-202035850.png"
+      },
+      {
+        "id": "1C",
+        "status": "available",
+        "plan": "planimetrite/1747313083969-78083227.png",
+        "redFloorPlan": "floorplans/1747313083971-988005264.png",
+        "greenFloorPlan": "floorplans/1747313083976-860985303.png"
+      },
+      {
+        "id": "1D",
+        "status": "available",
+        "plan": "planimetrite/1747313166142-329267199.png",
+        "redFloorPlan": "floorplans/1747313166145-119061540.png",
+        "greenFloorPlan": "floorplans/1747313166159-75758856.png"
+      },
+      {
+        "id": "1E",
+        "status": "available",
+        "plan": "planimetrite/1747313399347-189592748.png",
+        "redFloorPlan": "floorplans/1747313399349-217436681.png",
+        "greenFloorPlan": "floorplans/1747313399354-988730309.png"
+      },
+      {
+        "id": "1F",
+        "status": "available",
+        "plan": "planimetrite/1747313483504-879847785.png",
+        "redFloorPlan": "floorplans/1747313483507-621535720.png",
+        "greenFloorPlan": "floorplans/1747313483513-807648264.png"
+      },
+      {
+        "id": "1G",
+        "status": "available",
+        "plan": "planimetrite/1747313610844-201884077.png",
+        "redFloorPlan": "floorplans/1747313610846-964321500.png",
+        "greenFloorPlan": "floorplans/1747313610851-758979920.png"
+      },
+      {
+        "id": "1H",
+        "status": "available",
+        "plan": "planimetrite/1747313873756-657341076.png",
+        "redFloorPlan": "floorplans/1747313873758-992493937.png",
+        "greenFloorPlan": "floorplans/1747313873763-290744795.png"
+      },
+      {
+        "id": "1J",
+        "status": "available",
+        "plan": "planimetrite/1747313983700-831265733.png",
+        "redFloorPlan": "floorplans/1747313983702-771673364.png",
+        "greenFloorPlan": "floorplans/1747313983708-946871386.png"
+      },
+      {
+        "id": "1K",
+        "status": "available",
+        "plan": "planimetrite/1747318187677-776429527.png",
+        "redFloorPlan": "floorplans/1747318187680-888430100.png",
+        "greenFloorPlan": "floorplans/1747318187685-711830804.png"
+      },
+      {
+        "id": "1L",
+        "status": "available",
+        "plan": "planimetrite/1747318283303-843780345.png",
+        "redFloorPlan": "floorplans/1747318283305-720839243.png",
+        "greenFloorPlan": "floorplans/1747318283310-797712168.png"
+      },
+      {
+        "id": "1M",
+        "status": "available",
+        "plan": "planimetrite/1747318382065-441205980.png",
+        "redFloorPlan": "floorplans/1747318382067-361368403.png",
+        "greenFloorPlan": "floorplans/1747318382071-249051342.png"
+      },
+      {
+        "id": "1N",
+        "status": "available",
+        "plan": "planimetrite/1747318438646-647891018.png",
+        "redFloorPlan": "floorplans/1747318438649-595614911.png",
+        "greenFloorPlan": "floorplans/1747318438658-219699266.png"
+      },
+      {
+        "id": "1O",
+        "status": "available",
+        "plan": "planimetrite/1747318555364-334318275.png",
+        "redFloorPlan": "floorplans/1747318555367-734803536.png",
+        "greenFloorPlan": "floorplans/1747318555372-151491262.png"
+      },
+      {
+        "id": "1P",
+        "status": "available",
+        "plan": "planimetrite/1747318635452-247013050.png",
+        "redFloorPlan": "floorplans/1747318635456-482986138.png",
+        "greenFloorPlan": "floorplans/1747318635464-764005724.png"
+      },
+      {
+        "id": "1Q",
+        "status": "available",
+        "plan": "planimetrite/1747318704839-116793471.png",
+        "redFloorPlan": "floorplans/1747318704843-912289884.png",
+        "greenFloorPlan": "floorplans/1747318704847-904673466.png"
+      }
+    ],
+    "2": [
+      {
+        "id": "2A",
+        "status": "available",
+        "plan": "planimetrite/1747406132425-335772319.png",
+        "redFloorPlan": "floorplans/1747406132455-712092282.png",
+        "greenFloorPlan": "floorplans/1747406132464-198565581.png"
+      },
+      {
+        "id": "2B",
+        "status": "available",
+        "plan": "planimetrite/1747406388738-151682617.png",
+        "redFloorPlan": "floorplans/1747406388742-41157586.png",
+        "greenFloorPlan": "floorplans/1747406388747-92071561.png"
+      },
+      {
+        "id": "2C",
+        "status": "available",
+        "plan": "planimetrite/1747406572298-591265944.png",
+        "redFloorPlan": "floorplans/1747406572301-754642507.png",
+        "greenFloorPlan": "floorplans/1747406572307-881040659.png"
+      },
+      {
+        "id": "2D",
+        "status": "available",
+        "plan": "planimetrite/1747406821747-10768051.png",
+        "redFloorPlan": "floorplans/1747406821749-819985532.png",
+        "greenFloorPlan": "floorplans/1747406821756-564180525.png"
+      },
+      {
+        "id": "2E",
+        "status": "available",
+        "plan": "planimetrite/1747407023946-8393988.png",
+        "redFloorPlan": "floorplans/1747407023948-399039574.png",
+        "greenFloorPlan": "floorplans/1747407023953-171763696.png"
+      },
+      {
+        "id": "2F",
+        "status": "available",
+        "plan": "planimetrite/1747412213453-508617769.png",
+        "redFloorPlan": "floorplans/1747412213456-637468575.png",
+        "greenFloorPlan": "floorplans/1747412213462-567471348.png"
+      },
+      {
+        "id": "2G",
+        "status": "available",
+        "plan": "planimetrite/1747414398829-177952488.png",
+        "redFloorPlan": "floorplans/1747414398831-957588238.png",
+        "greenFloorPlan": "floorplans/1747414398836-383527366.png"
+      },
+      {
+        "id": "2H",
+        "status": "available",
+        "plan": "planimetrite/1747414652497-744966373.png",
+        "redFloorPlan": "floorplans/1747414652499-942864004.png",
+        "greenFloorPlan": "floorplans/1747414652504-888271889.png"
+      },
+      {
+        "id": "2J",
+        "status": "available",
+        "plan": "planimetrite/1747415686172-718229493.png",
+        "redFloorPlan": "floorplans/1747415686174-403632838.png",
+        "greenFloorPlan": "floorplans/1747415686178-809106007.png"
+      },
+      {
+        "id": "2K",
+        "status": "available",
+        "plan": "planimetrite/1747415859008-656300920.png",
+        "redFloorPlan": "floorplans/1747415859011-387732595.png",
+        "greenFloorPlan": "floorplans/1747415859016-896777175.png"
+      },
+      {
+        "id": "2L",
+        "status": "available",
+        "plan": "planimetrite/1747416074569-674704237.png",
+        "redFloorPlan": "floorplans/1747416074571-481966834.png",
+        "greenFloorPlan": "floorplans/1747416074575-450147229.png"
+      },
+      {
+        "id": "2M",
+        "status": "available",
+        "plan": "planimetrite/1747416296060-956031850.png",
+        "redFloorPlan": "floorplans/1747416296062-480572262.png",
+        "greenFloorPlan": "floorplans/1747416296068-61675012.png"
+      },
+      {
+        "id": "2N",
+        "status": "available",
+        "plan": "planimetrite/1747416694130-321439718.png",
+        "redFloorPlan": "floorplans/1747416694131-12013282.png",
+        "greenFloorPlan": "floorplans/1747416694136-164144216.png"
+      },
+      {
+        "id": "2O",
+        "status": "available",
+        "plan": "planimetrite/1747416862561-64788583.png",
+        "redFloorPlan": "floorplans/1747416862563-571472206.png",
+        "greenFloorPlan": "floorplans/1747416862569-101682734.png"
+      },
+      {
+        "id": "2P",
+        "status": "available",
+        "plan": "planimetrite/1747599552649-466719810.png",
+        "redFloorPlan": "floorplans/1747599552652-423359066.png",
+        "greenFloorPlan": "floorplans/1747599552659-756469352.png"
+      },
+      {
+        "id": "2Q",
+        "status": "available",
+        "plan": "planimetrite/1747599782526-948725920.png",
+        "redFloorPlan": "floorplans/1747599782528-793480956.png",
+        "greenFloorPlan": "floorplans/1747599782532-327150394.png"
+      }
+    ],
+    "3": [
+      {
+        "id": "3A",
+        "status": "available",
+        "plan": "planimetrite/1747406154129-906894138.png",
+        "redFloorPlan": "floorplans/1747406154133-529720946.png",
+        "greenFloorPlan": "floorplans/1747406154139-528463353.png"
+      },
+      {
+        "id": "3B",
+        "status": "available",
+        "plan": "planimetrite/1747406400991-113595367.png",
+        "redFloorPlan": "floorplans/1747406400994-826792699.png",
+        "greenFloorPlan": "floorplans/1747406401000-679311083.png"
+      },
+      {
+        "id": "3C",
+        "status": "available",
+        "plan": "planimetrite/1747406603286-215718042.png",
+        "redFloorPlan": "floorplans/1747406603294-52397354.png",
+        "greenFloorPlan": "floorplans/1747406603298-901897176.png"
+      },
+      {
+        "id": "3D",
+        "status": "available",
+        "plan": "planimetrite/1747406837841-770523252.png",
+        "redFloorPlan": "floorplans/1747406837844-96345580.png",
+        "greenFloorPlan": "floorplans/1747406837850-729052473.png"
+      },
+      {
+        "id": "3E",
+        "status": "available",
+        "plan": "planimetrite/1747407039361-866442509.png",
+        "redFloorPlan": "floorplans/1747407039364-211143583.png",
+        "greenFloorPlan": "floorplans/1747407039369-461476519.png"
+      },
+      {
+        "id": "3F",
+        "status": "available",
+        "plan": "planimetrite/1747412229315-735453672.png",
+        "redFloorPlan": "floorplans/1747412229317-374839240.png",
+        "greenFloorPlan": "floorplans/1747412229323-209401111.png"
+      },
+      {
+        "id": "3G",
+        "status": "available",
+        "plan": "planimetrite/1747414417970-180015769.png",
+        "redFloorPlan": "floorplans/1747414417972-722021575.png",
+        "greenFloorPlan": "floorplans/1747414417979-915941058.png"
+      },
+      {
+        "id": "3H",
+        "status": "available",
+        "plan": "planimetrite/1747414666457-881610984.png",
+        "redFloorPlan": "floorplans/1747414666459-43383126.png",
+        "greenFloorPlan": "floorplans/1747414666465-903609759.png"
+      },
+      {
+        "id": "3J",
+        "status": "available",
+        "plan": "planimetrite/1747415699422-947927279.png",
+        "redFloorPlan": "floorplans/1747415699424-464056288.png",
+        "greenFloorPlan": "floorplans/1747415699429-973131238.png"
+      },
+      {
+        "id": "3K",
+        "status": "available",
+        "plan": "planimetrite/1747415876698-803582465.png",
+        "redFloorPlan": "floorplans/1747415876700-34251644.png",
+        "greenFloorPlan": "floorplans/1747415876706-210195105.png"
+      },
+      {
+        "id": "3L",
+        "status": "available",
+        "plan": "planimetrite/1747416088455-414197133.png",
+        "redFloorPlan": "floorplans/1747416088457-816864584.png",
+        "greenFloorPlan": "floorplans/1747416088463-434140304.png"
+      },
+      {
+        "id": "3M",
+        "status": "available",
+        "plan": "planimetrite/1747416311724-392202147.png",
+        "redFloorPlan": "floorplans/1747416311726-552054870.png",
+        "greenFloorPlan": "floorplans/1747416311731-892663247.png"
+      },
+      {
+        "id": "3N",
+        "status": "available",
+        "plan": "planimetrite/1747416704963-677402796.png",
+        "redFloorPlan": "floorplans/1747416704967-921618155.png",
+        "greenFloorPlan": "floorplans/1747416704975-867636871.png"
+      },
+      {
+        "id": "3O",
+        "status": "available",
+        "plan": "planimetrite/1747416877579-302238795.png",
+        "redFloorPlan": "floorplans/1747416877591-406204365.png",
+        "greenFloorPlan": "floorplans/1747416877596-543593840.png"
+      },
+      {
+        "id": "3P",
+        "status": "available",
+        "plan": "planimetrite/1747599566222-947419330.png",
+        "redFloorPlan": "floorplans/1747599566225-40811685.png",
+        "greenFloorPlan": "floorplans/1747599566231-403894141.png"
+      },
+      {
+        "id": "3Q",
+        "status": "available",
+        "plan": "planimetrite/1747599794294-71500008.png",
+        "redFloorPlan": "floorplans/1747599794298-576699832.png",
+        "greenFloorPlan": "floorplans/1747599794302-340235095.png"
+      }
+    ],
+    "4": [
+      {
+        "id": "4A",
+        "status": "available",
+        "plan": "planimetrite/1747406169952-499099910.png",
+        "redFloorPlan": "floorplans/1747406169957-378419828.png",
+        "greenFloorPlan": "floorplans/1747406169962-814338030.png"
+      },
+      {
+        "id": "4B",
+        "status": "available",
+        "plan": "planimetrite/1747406416849-311962508.png",
+        "redFloorPlan": "floorplans/1747406416852-131589504.png",
+        "greenFloorPlan": "floorplans/1747406416856-223394315.png"
+      },
+      {
+        "id": "4C",
+        "status": "available",
+        "plan": "planimetrite/1747406617148-635759388.png",
+        "redFloorPlan": "floorplans/1747406617151-634824622.png",
+        "greenFloorPlan": "floorplans/1747406617155-410529186.png"
+      },
+      {
+        "id": "4D",
+        "status": "available",
+        "plan": "planimetrite/1747406850510-60849628.png",
+        "redFloorPlan": "floorplans/1747406850512-250086899.png",
+        "greenFloorPlan": "floorplans/1747406850516-795822920.png"
+      },
+      {
+        "id": "4E",
+        "status": "available",
+        "plan": "planimetrite/1747407049654-694654339.png",
+        "redFloorPlan": "floorplans/1747407049658-978154211.png",
+        "greenFloorPlan": "floorplans/1747407049666-389414687.png"
+      },
+      {
+        "id": "4F",
+        "status": "available",
+        "plan": "planimetrite/1747412245249-18678478.png",
+        "redFloorPlan": "floorplans/1747412245251-733193820.png",
+        "greenFloorPlan": "floorplans/1747412245256-702821499.png"
+      },
+      {
+        "id": "4G",
+        "status": "available",
+        "plan": "planimetrite/1747414430589-352314357.png",
+        "redFloorPlan": "floorplans/1747414430591-392039994.png",
+        "greenFloorPlan": "floorplans/1747414430595-620479420.png"
+      },
+      {
+        "id": "4H",
+        "status": "available",
+        "plan": "planimetrite/1747414681489-413596692.png",
+        "redFloorPlan": "floorplans/1747414681491-514633542.png",
+        "greenFloorPlan": "floorplans/1747414681496-982390531.png"
+      },
+      {
+        "id": "4J",
+        "status": "available",
+        "plan": "planimetrite/1747415720877-140360316.png",
+        "redFloorPlan": "floorplans/1747415720878-611636433.png",
+        "greenFloorPlan": "floorplans/1747415720884-314260713.png"
+      },
+      {
+        "id": "4K",
+        "status": "available",
+        "plan": "planimetrite/1747415898150-693081444.png",
+        "redFloorPlan": "floorplans/1747415898152-642702594.png",
+        "greenFloorPlan": "floorplans/1747415898158-998963227.png"
+      },
+      {
+        "id": "4L",
+        "status": "available",
+        "plan": "planimetrite/1747416104254-451338506.png",
+        "redFloorPlan": "floorplans/1747416104256-22843134.png",
+        "greenFloorPlan": "floorplans/1747416104265-627930264.png"
+      },
+      {
+        "id": "4M",
+        "status": "available",
+        "plan": "planimetrite/1747416324644-23607187.png",
+        "redFloorPlan": "floorplans/1747416324646-751647608.png",
+        "greenFloorPlan": "floorplans/1747416324653-892548935.png"
+      },
+      {
+        "id": "4N",
+        "status": "available",
+        "plan": "planimetrite/1747416717707-839640485.png",
+        "redFloorPlan": "floorplans/1747416717709-617991637.png",
+        "greenFloorPlan": "floorplans/1747416717713-458019285.png"
+      },
+      {
+        "id": "4O",
+        "status": "available",
+        "plan": "planimetrite/1747416907918-147494291.png",
+        "redFloorPlan": "floorplans/1747416907921-673990728.png",
+        "greenFloorPlan": "floorplans/1747416907926-95945069.png"
+      },
+      {
+        "id": "4P",
+        "status": "available",
+        "plan": "planimetrite/1747599577536-395149950.png",
+        "redFloorPlan": "floorplans/1747599577539-979394433.png",
+        "greenFloorPlan": "floorplans/1747599577543-56390830.png"
+      },
+      {
+        "id": "4Q",
+        "status": "available",
+        "plan": "planimetrite/1747599807661-193780894.png",
+        "redFloorPlan": "floorplans/1747599807664-463258155.png",
+        "greenFloorPlan": "floorplans/1747599807669-556169723.png"
+      }
+    ],
+    "5": [
+      {
+        "id": "5A",
+        "status": "available",
+        "plan": "planimetrite/1747406185253-602354760.png",
+        "redFloorPlan": "floorplans/1747406185258-587017162.png",
+        "greenFloorPlan": "floorplans/1747406185263-920881022.png"
+      },
+      {
+        "id": "5B",
+        "status": "available",
+        "plan": "planimetrite/1747406430102-411740714.png",
+        "redFloorPlan": "floorplans/1747406430106-405100729.png",
+        "greenFloorPlan": "floorplans/1747406430111-339420717.png"
+      },
+      {
+        "id": "5C",
+        "status": "available",
+        "plan": "planimetrite/1747406640726-22947169.png",
+        "redFloorPlan": "floorplans/1747406640728-857768263.png",
+        "greenFloorPlan": "floorplans/1747406640733-602006110.png"
+      },
+      {
+        "id": "5D",
+        "status": "available",
+        "plan": "planimetrite/1747406867992-420322761.png",
+        "redFloorPlan": "floorplans/1747406867994-518994349.png",
+        "greenFloorPlan": "floorplans/1747406868004-697457238.png"
+      },
+      {
+        "id": "5E",
+        "status": "available",
+        "plan": "planimetrite/1747407061703-309038858.png",
+        "redFloorPlan": "floorplans/1747407061705-955273133.png",
+        "greenFloorPlan": "floorplans/1747407061709-561101819.png"
+      },
+      {
+        "id": "5F",
+        "status": "available",
+        "plan": "planimetrite/1747412263146-886819591.png",
+        "redFloorPlan": "floorplans/1747412263148-125434928.png",
+        "greenFloorPlan": "floorplans/1747412263153-23269508.png"
+      },
+      {
+        "id": "5G",
+        "status": "available",
+        "plan": "planimetrite/1747414443928-825184365.png",
+        "redFloorPlan": "floorplans/1747414443930-441412120.png",
+        "greenFloorPlan": "floorplans/1747414443935-858263.png"
+      },
+      {
+        "id": "5H",
+        "status": "available",
+        "plan": "planimetrite/1747414695772-684815865.png",
+        "redFloorPlan": "floorplans/1747414695773-26729980.png",
+        "greenFloorPlan": "floorplans/1747414695778-366914386.png"
+      },
+      {
+        "id": "5J",
+        "status": "available",
+        "plan": "planimetrite/1747415734020-153982272.png",
+        "redFloorPlan": "floorplans/1747415734021-550308822.png",
+        "greenFloorPlan": "floorplans/1747415734025-260296692.png"
+      },
+      {
+        "id": "5K",
+        "status": "available",
+        "plan": "planimetrite/1747415920093-316056734.png",
+        "redFloorPlan": "floorplans/1747415920095-601810957.png",
+        "greenFloorPlan": "floorplans/1747415920101-135859478.png"
+      },
+      {
+        "id": "5L",
+        "status": "available",
+        "plan": "planimetrite/1747416119163-481376036.png",
+        "redFloorPlan": "floorplans/1747416119165-906256938.png",
+        "greenFloorPlan": "floorplans/1747416119170-878896648.png"
+      },
+      {
+        "id": "5M",
+        "status": "available",
+        "plan": "planimetrite/1747416339113-91157937.png",
+        "redFloorPlan": "floorplans/1747416339115-502920681.png",
+        "greenFloorPlan": "floorplans/1747416339122-576461913.png"
+      },
+      {
+        "id": "5N",
+        "status": "available",
+        "plan": "planimetrite/1747416730249-59619056.png",
+        "redFloorPlan": "floorplans/1747416730252-884155940.png",
+        "greenFloorPlan": "floorplans/1747416730263-601290638.png"
+      },
+      {
+        "id": "5O",
+        "status": "available",
+        "plan": "planimetrite/1747416920497-129228900.png",
+        "redFloorPlan": "floorplans/1747416920499-530405133.png",
+        "greenFloorPlan": "floorplans/1747416920504-822472269.png"
+      },
+      {
+        "id": "5P",
+        "status": "available",
+        "plan": "planimetrite/1747599595658-515985661.png",
+        "redFloorPlan": "floorplans/1747599595661-591684236.png",
+        "greenFloorPlan": "floorplans/1747599595667-202274457.png"
+      },
+      {
+        "id": "5Q",
+        "status": "available",
+        "plan": "planimetrite/1747599818820-975051881.png",
+        "redFloorPlan": "floorplans/1747599818822-276819967.png",
+        "greenFloorPlan": "floorplans/1747599818827-343644131.png"
+      }
+    ],
+    "6": [
+      {
+        "id": "6A",
+        "status": "available",
+        "plan": "planimetrite/1747406200357-353475470.png",
+        "redFloorPlan": "floorplans/1747406200360-678961171.png",
+        "greenFloorPlan": "floorplans/1747406200365-837893263.png"
+      },
+      {
+        "id": "6B",
+        "status": "available",
+        "plan": "planimetrite/1747406444370-538369622.png",
+        "redFloorPlan": "floorplans/1747406444374-701433948.png",
+        "greenFloorPlan": "floorplans/1747406444380-827249517.png"
+      },
+      {
+        "id": "6C",
+        "status": "available",
+        "plan": "planimetrite/1747406655187-841565679.png",
+        "redFloorPlan": "floorplans/1747406655189-133315377.png",
+        "greenFloorPlan": "floorplans/1747406655194-502290542.png"
+      },
+      {
+        "id": "6D",
+        "status": "available",
+        "plan": "planimetrite/1747406881098-901322224.png",
+        "redFloorPlan": "floorplans/1747406881100-26094594.png",
+        "greenFloorPlan": "floorplans/1747406881106-205537537.png"
+      },
+      {
+        "id": "6E",
+        "status": "available",
+        "plan": "planimetrite/1747407074985-611062038.png",
+        "redFloorPlan": "floorplans/1747407074987-374188697.png",
+        "greenFloorPlan": "floorplans/1747407074993-4465313.png"
+      },
+      {
+        "id": "6F",
+        "status": "available",
+        "plan": "planimetrite/1747412278638-190711866.png",
+        "redFloorPlan": "floorplans/1747412278640-92144863.png",
+        "greenFloorPlan": "floorplans/1747412278644-328225070.png"
+      },
+      {
+        "id": "6G",
+        "status": "available",
+        "plan": "planimetrite/1747414462057-542961119.png",
+        "redFloorPlan": "floorplans/1747414462059-776394403.png",
+        "greenFloorPlan": "floorplans/1747414462065-828169774.png"
+      },
+      {
+        "id": "6H",
+        "status": "available",
+        "plan": "planimetrite/1747414709214-581051797.png",
+        "redFloorPlan": "floorplans/1747414709215-836825468.png",
+        "greenFloorPlan": "floorplans/1747414709220-619402630.png"
+      },
+      {
+        "id": "6J",
+        "status": "available",
+        "plan": "planimetrite/1747415746764-209197996.png",
+        "redFloorPlan": "floorplans/1747415746766-786887496.png",
+        "greenFloorPlan": "floorplans/1747415746771-219052049.png"
+      },
+      {
+        "id": "6K",
+        "status": "available",
+        "plan": "planimetrite/1747415933444-915476361.png",
+        "redFloorPlan": "floorplans/1747415933463-311351720.png",
+        "greenFloorPlan": "floorplans/1747415933468-858456551.png"
+      },
+      {
+        "id": "6L",
+        "status": "available",
+        "plan": "planimetrite/1747416135357-970703595.png",
+        "redFloorPlan": "floorplans/1747416135359-893709896.png",
+        "greenFloorPlan": "floorplans/1747416135365-983351815.png"
+      },
+      {
+        "id": "6M",
+        "status": "available",
+        "plan": "planimetrite/1747416357428-218909403.png",
+        "redFloorPlan": "floorplans/1747416357430-932615074.png",
+        "greenFloorPlan": "floorplans/1747416357435-405200564.png"
+      },
+      {
+        "id": "6N",
+        "status": "available",
+        "plan": "planimetrite/1747416742288-564810862.png",
+        "redFloorPlan": "floorplans/1747416742291-534116209.png",
+        "greenFloorPlan": "floorplans/1747416742296-516197993.png"
+      },
+      {
+        "id": "6O",
+        "status": "available",
+        "plan": "planimetrite/1747416941926-119730866.png",
+        "redFloorPlan": "floorplans/1747416941928-548358828.png",
+        "greenFloorPlan": "floorplans/1747416941937-601455217.png"
+      },
+      {
+        "id": "6P",
+        "status": "available",
+        "plan": "planimetrite/1747599612679-621015695.png",
+        "redFloorPlan": "floorplans/1747599612682-23411949.png",
+        "greenFloorPlan": "floorplans/1747599612688-985928941.png"
+      },
+      {
+        "id": "6Q",
+        "status": "available",
+        "plan": "planimetrite/1747599831083-984841338.png",
+        "redFloorPlan": "floorplans/1747599831086-248156378.png",
+        "greenFloorPlan": "floorplans/1747599831091-748298107.png"
+      }
+    ],
+    "7": [
+      {
+        "id": "7A",
+        "status": "available",
+        "plan": "planimetrite/1747406216313-953008596.png",
+        "redFloorPlan": "floorplans/1747406216317-851731896.png",
+        "greenFloorPlan": "floorplans/1747406216322-844591730.png"
+      },
+      {
+        "id": "7B",
+        "status": "available",
+        "plan": "planimetrite/1747406459136-323467159.png",
+        "redFloorPlan": "floorplans/1747406459138-126842216.png",
+        "greenFloorPlan": "floorplans/1747406459143-923894002.png"
+      },
+      {
+        "id": "7C",
+        "status": "available",
+        "plan": "planimetrite/1747406667947-150878610.png",
+        "redFloorPlan": "floorplans/1747406667950-291282287.png",
+        "greenFloorPlan": "floorplans/1747406667956-721205095.png"
+      },
+      {
+        "id": "7D",
+        "status": "available",
+        "plan": "planimetrite/1747406895600-232710485.png",
+        "redFloorPlan": "floorplans/1747406895604-721090879.png",
+        "greenFloorPlan": "floorplans/1747406895608-127942042.png"
+      },
+      {
+        "id": "7E",
+        "status": "available",
+        "plan": "planimetrite/1747407089664-915828908.png",
+        "redFloorPlan": "floorplans/1747407089667-797930736.png",
+        "greenFloorPlan": "floorplans/1747407089672-822372193.png"
+      },
+      {
+        "id": "7F",
+        "status": "available",
+        "plan": "planimetrite/1747412295125-882405595.png",
+        "redFloorPlan": "floorplans/1747412295127-643328198.png",
+        "greenFloorPlan": "floorplans/1747412295133-148172304.png"
+      },
+      {
+        "id": "7G",
+        "status": "available",
+        "plan": "planimetrite/1747414475370-555549575.png",
+        "redFloorPlan": "floorplans/1747414475372-15046162.png",
+        "greenFloorPlan": "floorplans/1747414475377-380020729.png"
+      },
+      {
+        "id": "7H",
+        "status": "available",
+        "plan": "planimetrite/1747414726680-257770304.png",
+        "redFloorPlan": "floorplans/1747414726682-795202861.png",
+        "greenFloorPlan": "floorplans/1747414726686-255592441.png"
+      },
+      {
+        "id": "7J",
+        "status": "available",
+        "plan": "planimetrite/1747415758649-917734993.png",
+        "redFloorPlan": "floorplans/1747415758657-416293349.png",
+        "greenFloorPlan": "floorplans/1747415758662-488183497.png"
+      },
+      {
+        "id": "7K",
+        "status": "available",
+        "plan": "planimetrite/1747415948901-714193956.png",
+        "redFloorPlan": "floorplans/1747415948903-242937246.png",
+        "greenFloorPlan": "floorplans/1747415948908-735236073.png"
+      },
+      {
+        "id": "7L",
+        "status": "available",
+        "plan": "planimetrite/1747416150705-127819687.png",
+        "redFloorPlan": "floorplans/1747416150706-172654029.png",
+        "greenFloorPlan": "floorplans/1747416150711-822091326.png"
+      },
+      {
+        "id": "7M",
+        "status": "available",
+        "plan": "planimetrite/1747416374346-248163189.png",
+        "redFloorPlan": "floorplans/1747416374354-87928570.png",
+        "greenFloorPlan": "floorplans/1747416374376-944361549.png"
+      },
+      {
+        "id": "7N",
+        "status": "available",
+        "plan": "planimetrite/1747416754436-989274257.png",
+        "redFloorPlan": "floorplans/1747416754438-556369658.png",
+        "greenFloorPlan": "floorplans/1747416754444-254744434.png"
+      },
+      {
+        "id": "7O",
+        "status": "available",
+        "plan": "planimetrite/1747416957407-947285760.png",
+        "redFloorPlan": "floorplans/1747416957409-150014675.png",
+        "greenFloorPlan": "floorplans/1747416957414-901948594.png"
+      },
+      {
+        "id": "7P",
+        "status": "available",
+        "plan": "planimetrite/1747599639958-302113975.png",
+        "redFloorPlan": "floorplans/1747599639961-793578920.png",
+        "greenFloorPlan": "floorplans/1747599639965-54057663.png"
+      },
+      {
+        "id": "7Q",
+        "status": "available",
+        "plan": "planimetrite/1747599842416-69868394.png",
+        "redFloorPlan": "floorplans/1747599842418-859587365.png",
+        "greenFloorPlan": "floorplans/1747599842422-494579637.png"
+      }
+    ],
+    "8": [
+      {
+        "id": "8A",
+        "status": "available",
+        "plan": "planimetrite/1747406231321-370244666.png",
+        "redFloorPlan": "floorplans/1747406231326-354528887.png",
+        "greenFloorPlan": "floorplans/1747406231331-697014536.png"
+      },
+      {
+        "id": "8B",
+        "status": "available",
+        "plan": "planimetrite/1747406476320-159942614.png",
+        "redFloorPlan": "floorplans/1747406476325-576257508.png",
+        "greenFloorPlan": "floorplans/1747406476331-882287068.png"
+      },
+      {
+        "id": "8C",
+        "status": "available",
+        "plan": "planimetrite/1747406692226-938025714.png",
+        "redFloorPlan": "floorplans/1747406692229-946320502.png",
+        "greenFloorPlan": "floorplans/1747406692235-599072409.png"
+      },
+      {
+        "id": "8D",
+        "status": "available",
+        "plan": "planimetrite/1747406910902-515451563.png",
+        "redFloorPlan": "floorplans/1747406910904-457521419.png",
+        "greenFloorPlan": "floorplans/1747406910910-373486836.png"
+      },
+      {
+        "id": "8E",
+        "status": "available",
+        "plan": "planimetrite/1747407104781-949864975.png",
+        "redFloorPlan": "floorplans/1747407104782-703037807.png",
+        "greenFloorPlan": "floorplans/1747407104787-589758973.png"
+      },
+      {
+        "id": "8F",
+        "status": "available",
+        "plan": "planimetrite/1747412320758-825437346.png",
+        "redFloorPlan": "floorplans/1747412320761-490706032.png",
+        "greenFloorPlan": "floorplans/1747412320766-269750408.png"
+      },
+      {
+        "id": "8G",
+        "status": "available",
+        "plan": "planimetrite/1747414491022-107548412.png",
+        "redFloorPlan": "floorplans/1747414491024-379774464.png",
+        "greenFloorPlan": "floorplans/1747414491029-228932768.png"
+      },
+      {
+        "id": "8H",
+        "status": "available",
+        "plan": "planimetrite/1747414741034-514130239.png",
+        "redFloorPlan": "floorplans/1747414741036-698771171.png",
+        "greenFloorPlan": "floorplans/1747414741040-814290151.png"
+      },
+      {
+        "id": "8J",
+        "status": "available",
+        "plan": "planimetrite/1747415769608-342800171.png",
+        "redFloorPlan": "floorplans/1747415769610-961260064.png",
+        "greenFloorPlan": "floorplans/1747415769615-513857023.png"
+      },
+      {
+        "id": "8K",
+        "status": "available",
+        "plan": "planimetrite/1747415965659-242315976.png",
+        "redFloorPlan": "floorplans/1747415965661-751419814.png",
+        "greenFloorPlan": "floorplans/1747415965671-507967888.png"
+      },
+      {
+        "id": "8L",
+        "status": "available",
+        "plan": "planimetrite/1747416170048-137350782.png",
+        "redFloorPlan": "floorplans/1747416170049-442193806.png",
+        "greenFloorPlan": "floorplans/1747416170055-610093213.png"
+      },
+      {
+        "id": "8M",
+        "status": "available",
+        "plan": "planimetrite/1747416391237-424943393.png",
+        "redFloorPlan": "floorplans/1747416391239-477893341.png",
+        "greenFloorPlan": "floorplans/1747416391246-514306615.png"
+      },
+      {
+        "id": "8N",
+        "status": "available",
+        "plan": "planimetrite/1747416769391-776226168.png",
+        "redFloorPlan": "floorplans/1747416769393-340215303.png",
+        "greenFloorPlan": "floorplans/1747416769397-729213973.png"
+      },
+      {
+        "id": "8O",
+        "status": "available",
+        "plan": "planimetrite/1747416971678-15143962.png",
+        "redFloorPlan": "floorplans/1747416971680-805048247.png",
+        "greenFloorPlan": "floorplans/1747416971686-33647748.png"
+      },
+      {
+        "id": "8P",
+        "status": "available",
+        "plan": "planimetrite/1747599652340-153345332.png",
+        "redFloorPlan": "floorplans/1747599652343-496288935.png",
+        "greenFloorPlan": "floorplans/1747599652350-311775695.png"
+      },
+      {
+        "id": "8Q",
+        "status": "available",
+        "plan": "planimetrite/1747599861291-62390408.png",
+        "redFloorPlan": "floorplans/1747599861293-433137312.png",
+        "greenFloorPlan": "floorplans/1747599861299-25144387.png"
+      }
+    ],
+    "9": [
+      {
+        "id": "9A",
+        "status": "available",
+        "plan": "planimetrite/1747406244509-186510179.png",
+        "redFloorPlan": "floorplans/1747406244511-19219231.png",
+        "greenFloorPlan": "floorplans/1747406244515-612108078.png"
+      },
+      {
+        "id": "9B",
+        "status": "available",
+        "plan": "planimetrite/1747406493947-211551341.png",
+        "redFloorPlan": "floorplans/1747406493951-140969628.png",
+        "greenFloorPlan": "floorplans/1747406493956-544673037.png"
+      },
+      {
+        "id": "9C",
+        "status": "available",
+        "plan": "planimetrite/1747406708789-753015121.png",
+        "redFloorPlan": "floorplans/1747406708791-817267839.png",
+        "greenFloorPlan": "floorplans/1747406708794-216055530.png"
+      },
+      {
+        "id": "9D",
+        "status": "available",
+        "plan": "planimetrite/1747406928029-181569578.png",
+        "redFloorPlan": "floorplans/1747406928031-295107034.png",
+        "greenFloorPlan": "floorplans/1747406928038-749026877.png"
+      },
+      {
+        "id": "9E",
+        "status": "available",
+        "plan": "planimetrite/1747407118019-963181833.png",
+        "redFloorPlan": "floorplans/1747407118021-228485626.png",
+        "greenFloorPlan": "floorplans/1747407118026-36983701.png"
+      },
+      {
+        "id": "9F",
+        "status": "available",
+        "plan": "planimetrite/1747412333496-54504218.png",
+        "redFloorPlan": "floorplans/1747412333499-487442756.png",
+        "greenFloorPlan": "floorplans/1747412333503-210180792.png"
+      },
+      {
+        "id": "9G",
+        "status": "available",
+        "plan": "planimetrite/1747414503808-132666764.png",
+        "redFloorPlan": "floorplans/1747414503814-872833105.png",
+        "greenFloorPlan": "floorplans/1747414503818-858325380.png"
+      },
+      {
+        "id": "9H",
+        "status": "available",
+        "plan": "planimetrite/1747414761088-150499256.png",
+        "redFloorPlan": "floorplans/1747414761090-914015069.png",
+        "greenFloorPlan": "floorplans/1747414761095-302074970.png"
+      },
+      {
+        "id": "9J",
+        "status": "available",
+        "plan": "planimetrite/1747415781227-984154410.png",
+        "redFloorPlan": "floorplans/1747415781232-739648076.png",
+        "greenFloorPlan": "floorplans/1747415781241-361683142.png"
+      },
+      {
+        "id": "9K",
+        "status": "available",
+        "plan": "planimetrite/1747415982187-705206271.png",
+        "redFloorPlan": "floorplans/1747415982189-217259527.png",
+        "greenFloorPlan": "floorplans/1747415982195-797363437.png"
+      },
+      {
+        "id": "9L",
+        "status": "available",
+        "plan": "planimetrite/1747416183388-614437513.png",
+        "redFloorPlan": "floorplans/1747416183393-832506636.png",
+        "greenFloorPlan": "floorplans/1747416183404-237437779.png"
+      },
+      {
+        "id": "9M",
+        "status": "available",
+        "plan": "planimetrite/1747416414833-711259760.png",
+        "redFloorPlan": "floorplans/1747416414835-697197977.png",
+        "greenFloorPlan": "floorplans/1747416414842-843232969.png"
+      },
+      {
+        "id": "9O",
+        "status": "available",
+        "plan": "planimetrite/1747416983319-82569817.png",
+        "redFloorPlan": "floorplans/1747416983322-956100811.png",
+        "greenFloorPlan": "floorplans/1747416983326-987178578.png"
+      },
+      {
+        "id": "9N",
+        "status": "available",
+        "plan": "planimetrite/1747599187999-487346558.png",
+        "redFloorPlan": "floorplans/1747599188003-857151469.png",
+        "greenFloorPlan": "floorplans/1747599188009-142747582.png"
+      },
+      {
+        "id": "9P",
+        "status": "available",
+        "plan": "planimetrite/1747599665953-835147726.png",
+        "redFloorPlan": "floorplans/1747599665956-803938072.png",
+        "greenFloorPlan": "floorplans/1747599665960-796022871.png"
+      },
+      {
+        "id": "9Q",
+        "status": "available",
+        "plan": "planimetrite/1747599881649-909682811.png",
+        "redFloorPlan": "floorplans/1747599881653-88421699.png",
+        "greenFloorPlan": "floorplans/1747599881660-187953926.png"
+      }
+    ],
+    "10": [
+      {
+        "id": "10A",
+        "status": "available",
+        "plan": "planimetrite/1747406258593-122202340.png",
+        "redFloorPlan": "floorplans/1747406258596-839387337.png",
+        "greenFloorPlan": "floorplans/1747406258602-679139184.png"
+      },
+      {
+        "id": "10B",
+        "status": "available",
+        "plan": "planimetrite/1747406507020-790761279.png",
+        "redFloorPlan": "floorplans/1747406507023-511837811.png",
+        "greenFloorPlan": "floorplans/1747406507027-548692557.png"
+      },
+      {
+        "id": "10C",
+        "status": "available",
+        "plan": "planimetrite/1747406723009-599301874.png",
+        "redFloorPlan": "floorplans/1747406723011-149875943.png",
+        "greenFloorPlan": "floorplans/1747406723017-399570686.png"
+      },
+      {
+        "id": "10D",
+        "status": "available",
+        "plan": "planimetrite/1747406942921-872744700.png",
+        "redFloorPlan": "floorplans/1747406942924-650535557.png",
+        "greenFloorPlan": "floorplans/1747406942928-921787807.png"
+      },
+      {
+        "id": "10E",
+        "status": "available",
+        "plan": "planimetrite/1747407131004-287706432.png",
+        "redFloorPlan": "floorplans/1747407131008-93142312.png",
+        "greenFloorPlan": "floorplans/1747407131012-946199617.png"
+      },
+      {
+        "id": "10F",
+        "status": "available",
+        "plan": "planimetrite/1747412346006-290614964.png",
+        "redFloorPlan": "floorplans/1747412346008-701714730.png",
+        "greenFloorPlan": "floorplans/1747412346014-87992899.png"
+      },
+      {
+        "id": "10G",
+        "status": "available",
+        "plan": "planimetrite/1747414517802-569303105.png",
+        "redFloorPlan": "floorplans/1747414517804-453799634.png",
+        "greenFloorPlan": "floorplans/1747414517807-423329775.png"
+      },
+      {
+        "id": "10H",
+        "status": "available",
+        "plan": "planimetrite/1747414775993-218421766.png",
+        "redFloorPlan": "floorplans/1747414775994-169106283.png",
+        "greenFloorPlan": "floorplans/1747414775999-20601165.png"
+      },
+      {
+        "id": "10J",
+        "status": "available",
+        "plan": "planimetrite/1747415794567-282728513.png",
+        "redFloorPlan": "floorplans/1747415794569-972977272.png",
+        "greenFloorPlan": "floorplans/1747415794576-804709851.png"
+      },
+      {
+        "id": "10K",
+        "status": "available",
+        "plan": "planimetrite/1747416000062-145344242.png",
+        "redFloorPlan": "floorplans/1747416000064-290301280.png",
+        "greenFloorPlan": "floorplans/1747416000068-279328842.png"
+      },
+      {
+        "id": "10L",
+        "status": "available",
+        "plan": "planimetrite/1747416198074-919850828.png",
+        "redFloorPlan": "floorplans/1747416198076-187624801.png",
+        "greenFloorPlan": "floorplans/1747416198081-486230332.png"
+      },
+      {
+        "id": "10M",
+        "status": "available",
+        "plan": "planimetrite/1747416428849-321498062.png",
+        "redFloorPlan": "floorplans/1747416428853-583568700.png",
+        "greenFloorPlan": "floorplans/1747416428859-425889452.png"
+      },
+      {
+        "id": "10N",
+        "status": "available",
+        "plan": "planimetrite/1747416781527-769404550.png",
+        "redFloorPlan": "floorplans/1747416781529-998366774.png",
+        "greenFloorPlan": "floorplans/1747416781533-420228400.png"
+      },
+      {
+        "id": "10O",
+        "status": "available",
+        "plan": "planimetrite/1747416996928-289082558.png",
+        "redFloorPlan": "floorplans/1747416996930-262383456.png",
+        "greenFloorPlan": "floorplans/1747416996937-963890433.png"
+      },
+      {
+        "id": "10P",
+        "status": "available",
+        "plan": "planimetrite/1747599678340-79763540.png",
+        "redFloorPlan": "floorplans/1747599678342-346130553.png",
+        "greenFloorPlan": "floorplans/1747599678348-600908021.png"
+      },
+      {
+        "id": "10Q",
+        "status": "available",
+        "plan": "planimetrite/1747599893224-184039240.png",
+        "redFloorPlan": "floorplans/1747599893226-146568379.png",
+        "greenFloorPlan": "floorplans/1747599893231-344630019.png"
+      }
+    ],
+    "11": [
+      {
+        "id": "11A",
+        "status": "available",
+        "plan": "planimetrite/1747406273417-80366425.png",
+        "redFloorPlan": "floorplans/1747406273420-328663102.png",
+        "greenFloorPlan": "floorplans/1747406273427-888214664.png"
+      },
+      {
+        "id": "11B",
+        "status": "available",
+        "plan": "planimetrite/1747406519472-980083103.png",
+        "redFloorPlan": "floorplans/1747406519474-595005266.png",
+        "greenFloorPlan": "floorplans/1747406519480-980703545.png"
+      },
+      {
+        "id": "11C",
+        "status": "available",
+        "plan": "planimetrite/1747406735020-745805978.png",
+        "redFloorPlan": "floorplans/1747406735022-849443437.png",
+        "greenFloorPlan": "floorplans/1747406735028-350559025.png"
+      },
+      {
+        "id": "11D",
+        "status": "available",
+        "plan": "planimetrite/1747406954635-748908037.png",
+        "redFloorPlan": "floorplans/1747406954637-909055078.png",
+        "greenFloorPlan": "floorplans/1747406954641-40700048.png"
+      },
+      {
+        "id": "11E",
+        "status": "available",
+        "plan": "planimetrite/1747407141859-880586149.png",
+        "redFloorPlan": "floorplans/1747407141861-54220452.png",
+        "greenFloorPlan": "floorplans/1747407141866-377838677.png"
+      },
+      {
+        "id": "11F",
+        "status": "available",
+        "plan": "planimetrite/1747412365826-932945764.png",
+        "redFloorPlan": "floorplans/1747412365828-838740847.png",
+        "greenFloorPlan": "floorplans/1747412365833-659861394.png"
+      },
+      {
+        "id": "11G",
+        "status": "available",
+        "plan": "planimetrite/1747414529241-215944431.png",
+        "redFloorPlan": "floorplans/1747414529243-657843346.png",
+        "greenFloorPlan": "floorplans/1747414529249-425799840.png"
+      },
+      {
+        "id": "11H",
+        "status": "available",
+        "plan": "planimetrite/1747414804714-998955228.png",
+        "redFloorPlan": "floorplans/1747414804716-202503417.png",
+        "greenFloorPlan": "floorplans/1747414804722-221384878.png"
+      },
+      {
+        "id": "11J",
+        "status": "available",
+        "plan": "planimetrite/1747415807376-588089780.png",
+        "redFloorPlan": "floorplans/1747415807377-247198749.png",
+        "greenFloorPlan": "floorplans/1747415807382-925273093.png"
+      },
+      {
+        "id": "11K",
+        "status": "available",
+        "plan": "planimetrite/1747416014182-432354973.png",
+        "redFloorPlan": "floorplans/1747416014183-406065382.png",
+        "greenFloorPlan": "floorplans/1747416014188-272768891.png"
+      },
+      {
+        "id": "11L",
+        "status": "available",
+        "plan": "planimetrite/1747416213385-270892028.png",
+        "redFloorPlan": "floorplans/1747416213413-359696078.png",
+        "greenFloorPlan": "floorplans/1747416213429-460736206.png"
+      },
+      {
+        "id": "11M",
+        "status": "available",
+        "plan": "planimetrite/1747416440089-37452214.png",
+        "redFloorPlan": "floorplans/1747416440091-753047543.png",
+        "greenFloorPlan": "floorplans/1747416440094-706369697.png"
+      },
+      {
+        "id": "11N",
+        "status": "available",
+        "plan": "planimetrite/1747416803114-659776140.png",
+        "redFloorPlan": "floorplans/1747416803116-238063489.png",
+        "greenFloorPlan": "floorplans/1747416803120-197794753.png"
+      },
+      {
+        "id": "11O",
+        "status": "available",
+        "plan": "planimetrite/1747417009317-55537311.png",
+        "redFloorPlan": "floorplans/1747417009319-313560326.png",
+        "greenFloorPlan": "floorplans/1747417009324-484902994.png"
+      },
+      {
+        "id": "11P",
+        "status": "available",
+        "plan": "planimetrite/1747599700007-424044094.png",
+        "redFloorPlan": "floorplans/1747599700010-508290346.png",
+        "greenFloorPlan": "floorplans/1747599700015-767636557.png"
+      },
+      {
+        "id": "11Q",
+        "status": "available",
+        "plan": "planimetrite/1747599902843-137096091.png",
+        "redFloorPlan": "floorplans/1747599902845-641147479.png",
+        "greenFloorPlan": "floorplans/1747599902850-229767888.png"
+      }
+    ],
+    "12": [
+      {
+        "id": "12A",
+        "status": "available",
+        "plan": "planimetrite/1747406288093-704299213.png",
+        "redFloorPlan": "floorplans/1747406288097-579397054.png",
+        "greenFloorPlan": "floorplans/1747406288102-341733392.png"
+      },
+      {
+        "id": "12B",
+        "status": "available",
+        "plan": "planimetrite/1747406533749-382352234.png",
+        "redFloorPlan": "floorplans/1747406533752-462333432.png",
+        "greenFloorPlan": "floorplans/1747406533758-263630549.png"
+      },
+      {
+        "id": "12C",
+        "status": "available",
+        "plan": "planimetrite/1747406747565-876098201.png",
+        "redFloorPlan": "floorplans/1747406747567-384915454.png",
+        "greenFloorPlan": "floorplans/1747406747572-67607710.png"
+      },
+      {
+        "id": "12D",
+        "status": "available",
+        "plan": "planimetrite/1747406966352-623922526.png",
+        "redFloorPlan": "floorplans/1747406966354-143617116.png",
+        "greenFloorPlan": "floorplans/1747406966360-879449410.png"
+      },
+      {
+        "id": "12E",
+        "status": "available",
+        "plan": "planimetrite/1747407152985-936766328.png",
+        "redFloorPlan": "floorplans/1747407152986-515557057.png",
+        "greenFloorPlan": "floorplans/1747407152991-417330745.png"
+      },
+      {
+        "id": "12F",
+        "status": "available",
+        "plan": "planimetrite/1747412391490-539827341.png",
+        "redFloorPlan": "floorplans/1747412391492-632998765.png",
+        "greenFloorPlan": "floorplans/1747412391497-254801561.png"
+      },
+      {
+        "id": "12G",
+        "status": "available",
+        "plan": "planimetrite/1747414542553-141162024.png",
+        "redFloorPlan": "floorplans/1747414542561-589890822.png",
+        "greenFloorPlan": "floorplans/1747414542597-370225302.png"
+      },
+      {
+        "id": "12H",
+        "status": "available",
+        "plan": "planimetrite/1747414878158-376695921.png",
+        "redFloorPlan": "floorplans/1747414878159-17865224.png",
+        "greenFloorPlan": "floorplans/1747414878164-243051690.png"
+      },
+      {
+        "id": "12J",
+        "status": "available",
+        "plan": "planimetrite/1747415820438-901656533.png",
+        "redFloorPlan": "floorplans/1747415820440-484461720.png",
+        "greenFloorPlan": "floorplans/1747415820444-723487155.png"
+      },
+      {
+        "id": "12K",
+        "status": "available",
+        "plan": "planimetrite/1747416026741-965514878.png",
+        "redFloorPlan": "floorplans/1747416026743-486416913.png",
+        "greenFloorPlan": "floorplans/1747416026748-73201489.png"
+      },
+      {
+        "id": "12L",
+        "status": "available",
+        "plan": "planimetrite/1747416227301-848701470.png",
+        "redFloorPlan": "floorplans/1747416227303-552302615.png",
+        "greenFloorPlan": "floorplans/1747416227312-773275380.png"
+      },
+      {
+        "id": "12M",
+        "status": "available",
+        "plan": "planimetrite/1747416452659-682513458.png",
+        "redFloorPlan": "floorplans/1747416452661-103312612.png",
+        "greenFloorPlan": "floorplans/1747416452665-515766405.png"
+      },
+      {
+        "id": "12N",
+        "status": "available",
+        "plan": "planimetrite/1747416815794-753770448.png",
+        "redFloorPlan": "floorplans/1747416815796-907903564.png",
+        "greenFloorPlan": "floorplans/1747416815800-729331323.png"
+      },
+      {
+        "id": "12O",
+        "status": "available",
+        "plan": "planimetrite/1747417021001-270467807.png",
+        "redFloorPlan": "floorplans/1747417021003-465314901.png",
+        "greenFloorPlan": "floorplans/1747417021009-447986752.png"
+      },
+      {
+        "id": "12P",
+        "status": "available",
+        "plan": "planimetrite/1747599712256-291273957.png",
+        "redFloorPlan": "floorplans/1747599712259-541094305.png",
+        "greenFloorPlan": "floorplans/1747599712264-207261200.png"
+      },
+      {
+        "id": "12Q",
+        "status": "available",
+        "plan": "planimetrite/1747599922876-696400544.png",
+        "redFloorPlan": "floorplans/1747599922878-282323569.png",
+        "greenFloorPlan": "floorplans/1747599922883-988593820.png"
+      }
+    ],
+    "13": [
+      {
+        "id": "13A",
+        "status": "available",
+        "plan": "planimetrite/1747406345540-964577581.png",
+        "redFloorPlan": "floorplans/1747406345545-820736820.png",
+        "greenFloorPlan": "floorplans/1747406345550-967658618.png"
+      },
+      {
+        "id": "13B",
+        "status": "available",
+        "plan": "planimetrite/1747406548646-599545559.png",
+        "redFloorPlan": "floorplans/1747406548648-159506792.png",
+        "greenFloorPlan": "floorplans/1747406548654-725066189.png"
+      },
+      {
+        "id": "13C",
+        "status": "available",
+        "plan": "planimetrite/1747406758464-663051826.png",
+        "redFloorPlan": "floorplans/1747406758466-78772149.png",
+        "greenFloorPlan": "floorplans/1747406758472-885191723.png"
+      },
+      {
+        "id": "13D",
+        "status": "available",
+        "plan": "planimetrite/1747406981160-234722611.png",
+        "redFloorPlan": "floorplans/1747406981163-163063521.png",
+        "greenFloorPlan": "floorplans/1747406981176-953460202.png"
+      },
+      {
+        "id": "13E",
+        "status": "available",
+        "plan": "planimetrite/1747407163847-889463430.png",
+        "redFloorPlan": "floorplans/1747407163848-288395256.png",
+        "greenFloorPlan": "floorplans/1747407163854-866392907.png"
+      },
+      {
+        "id": "13F",
+        "status": "available",
+        "plan": "planimetrite/1747412408372-328711476.png",
+        "redFloorPlan": "floorplans/1747412408374-22748478.png",
+        "greenFloorPlan": "floorplans/1747412408379-505146005.png"
+      },
+      {
+        "id": "13G",
+        "status": "available",
+        "plan": "planimetrite/1747414557745-84670885.png",
+        "redFloorPlan": "floorplans/1747414557748-587724193.png",
+        "greenFloorPlan": "floorplans/1747414557753-783515488.png"
+      },
+      {
+        "id": "13H",
+        "status": "available",
+        "plan": "planimetrite/1747414895918-894718155.png",
+        "redFloorPlan": "floorplans/1747414895919-428061093.png",
+        "greenFloorPlan": "floorplans/1747414895925-464784145.png"
+      },
+      {
+        "id": "13J",
+        "status": "available",
+        "plan": "planimetrite/1747415837041-265796602.png",
+        "redFloorPlan": "floorplans/1747415837043-970745447.png",
+        "greenFloorPlan": "floorplans/1747415837049-460179780.png"
+      },
+      {
+        "id": "13K",
+        "status": "available",
+        "plan": "planimetrite/1747416040875-695676072.png",
+        "redFloorPlan": "floorplans/1747416040877-943119683.png",
+        "greenFloorPlan": "floorplans/1747416040883-4667790.png"
+      },
+      {
+        "id": "13L",
+        "status": "available",
+        "plan": "planimetrite/1747416257697-703919061.png",
+        "redFloorPlan": "floorplans/1747416257698-268455888.png",
+        "greenFloorPlan": "floorplans/1747416257703-866488478.png"
+      },
+      {
+        "id": "13M",
+        "status": "available",
+        "plan": "planimetrite/1747416465534-219478208.png",
+        "redFloorPlan": "floorplans/1747416465536-488636464.png",
+        "greenFloorPlan": "floorplans/1747416465540-898521619.png"
+      },
+      {
+        "id": "13N",
+        "status": "available",
+        "plan": "planimetrite/1747416828445-921143380.png",
+        "redFloorPlan": "floorplans/1747416828447-775036763.png",
+        "greenFloorPlan": "floorplans/1747416828452-814463733.png"
+      },
+      {
+        "id": "13O",
+        "status": "available",
+        "plan": "planimetrite/1747417035463-775755139.png",
+        "redFloorPlan": "floorplans/1747417035465-27184808.png",
+        "greenFloorPlan": "floorplans/1747417035469-107864244.png"
+      },
+      {
+        "id": "13P",
+        "status": "available",
+        "plan": "planimetrite/1747599724544-621142164.png",
+        "redFloorPlan": "floorplans/1747599724547-678193215.png",
+        "greenFloorPlan": "floorplans/1747599724552-531347242.png"
+      },
+      {
+        "id": "13Q",
+        "status": "available",
+        "plan": "planimetrite/1747599936923-777544075.png",
+        "redFloorPlan": "floorplans/1747599936925-741338316.png",
+        "greenFloorPlan": "floorplans/1747599936929-946512405.png"
+      }
+    ]
+  },
+  "Pallati 11": {
+    "1": [
+      {
+        "id": "1A",
+        "status": "available",
+        "plan": "planimetrite/1747851311830-322919780.png",
+        "redFloorPlan": "floorplans/1747851311850-787079263.png",
+        "greenFloorPlan": "floorplans/1747851311874-331699349.png"
+      },
+      {
+        "id": "1B",
+        "status": "available",
+        "plan": "planimetrite/1747851718860-129952207.png",
+        "redFloorPlan": "floorplans/1747851718889-534347061.png",
+        "greenFloorPlan": "floorplans/1747851718935-719328054.png"
+      },
+      {
+        "id": "1C",
+        "status": "available",
+        "plan": "planimetrite/1747851810994-789755534.png",
+        "redFloorPlan": "floorplans/1747851810996-519197187.png",
+        "greenFloorPlan": "floorplans/1747851811041-183082864.png"
+      },
+      {
+        "id": "1D",
+        "status": "available",
+        "plan": "planimetrite/1747852178764-772035154.png",
+        "redFloorPlan": "floorplans/1747852178777-17018728.png",
+        "greenFloorPlan": "floorplans/1747852178806-379835680.png"
+      },
+      {
+        "id": "1E",
+        "status": "available",
+        "plan": "planimetrite/1747852332294-935229476.png",
+        "redFloorPlan": "floorplans/1747852332298-702679739.png",
+        "greenFloorPlan": "floorplans/1747852332354-219452309.png"
+      },
+      {
+        "id": "1F",
+        "status": "available",
+        "plan": "planimetrite/1747852949263-813612979.png",
+        "redFloorPlan": "floorplans/1747852949266-337963572.png",
+        "greenFloorPlan": "floorplans/1747852949270-910842113.png"
+      },
+      {
+        "id": "1G",
+        "status": "available",
+        "plan": "planimetrite/1747853229373-647955289.png",
+        "redFloorPlan": "floorplans/1747853229375-4972493.png",
+        "greenFloorPlan": "floorplans/1747853229414-923428689.png"
+      },
+      {
+        "id": "1H",
+        "status": "available",
+        "plan": "planimetrite/1747853330958-618726153.png",
+        "redFloorPlan": "floorplans/1747853330960-122601576.png",
+        "greenFloorPlan": "floorplans/1747853330964-437092177.png"
+      },
+      {
+        "id": "1I",
+        "status": "available",
+        "plan": "planimetrite/1747853522588-921134145.png",
+        "redFloorPlan": "floorplans/1747853522590-150461200.png",
+        "greenFloorPlan": "floorplans/1747853522594-382227620.png"
+      },
+      {
+        "id": "1J",
+        "status": "available",
+        "plan": "planimetrite/1747853678610-380029932.png",
+        "redFloorPlan": "floorplans/1747853678612-374144263.png",
+        "greenFloorPlan": "floorplans/1747853678616-419446151.png"
+      },
+      {
+        "id": "1K",
+        "status": "available",
+        "plan": "planimetrite/1747853785188-73608404.png",
+        "redFloorPlan": "floorplans/1747853785190-330346537.png",
+        "greenFloorPlan": "floorplans/1747853785193-406110064.png"
+      },
+      {
+        "id": "1L",
+        "status": "available",
+        "plan": "planimetrite/1747853906526-993452623.png",
+        "redFloorPlan": "floorplans/1747853906528-212625392.png",
+        "greenFloorPlan": "floorplans/1747853906532-301643672.png"
+      },
+      {
+        "id": "1M",
+        "status": "available",
+        "plan": "planimetrite/1747854003893-931918488.png",
+        "redFloorPlan": "floorplans/1747854003896-789794132.png",
+        "greenFloorPlan": "floorplans/1747854003900-7480520.png"
+      },
+      {
+        "id": "1N",
+        "status": "available",
+        "plan": "planimetrite/1747854141357-353271168.png",
+        "redFloorPlan": "floorplans/1747854141359-952560676.png",
+        "greenFloorPlan": "floorplans/1747854141363-13531407.png"
+      }
+    ],
+    "2": [
+      {
+        "id": "2A",
+        "status": "available",
+        "plan": "planimetrite/1747851347423-41581035.png",
+        "redFloorPlan": "floorplans/1747851347427-580531449.png",
+        "greenFloorPlan": "floorplans/1747851347431-232246953.png"
+      },
+      {
+        "id": "2B",
+        "status": "available",
+        "plan": "planimetrite/1747851732307-976275895.png",
+        "redFloorPlan": "floorplans/1747851732309-313987621.png",
+        "greenFloorPlan": "floorplans/1747851732316-791402148.png"
+      },
+      {
+        "id": "2C",
+        "status": "available",
+        "plan": "planimetrite/1747851823209-850895220.png",
+        "redFloorPlan": "floorplans/1747851823211-147366264.png",
+        "greenFloorPlan": "floorplans/1747851823215-439776009.png"
+      },
+      {
+        "id": "2D",
+        "status": "available",
+        "plan": "planimetrite/1747852191752-725169753.png",
+        "redFloorPlan": "floorplans/1747852191755-354421636.png",
+        "greenFloorPlan": "floorplans/1747852191758-885462404.png"
+      },
+      {
+        "id": "2E",
+        "status": "available",
+        "plan": "planimetrite/1747852343407-525698072.png",
+        "redFloorPlan": "floorplans/1747852343409-369257912.png",
+        "greenFloorPlan": "floorplans/1747852343413-124130580.png"
+      },
+      {
+        "id": "2F",
+        "status": "available",
+        "plan": "planimetrite/1747852959484-939946211.png",
+        "redFloorPlan": "floorplans/1747852959486-429950174.png",
+        "greenFloorPlan": "floorplans/1747852959491-247259215.png"
+      },
+      {
+        "id": "2G",
+        "status": "available",
+        "plan": "planimetrite/1747853239979-906401160.png",
+        "redFloorPlan": "floorplans/1747853239981-643246249.png",
+        "greenFloorPlan": "floorplans/1747853239986-523714994.png"
+      },
+      {
+        "id": "2H",
+        "status": "available",
+        "plan": "planimetrite/1747853340073-280550029.png",
+        "redFloorPlan": "floorplans/1747853340075-649564094.png",
+        "greenFloorPlan": "floorplans/1747853340078-570460493.png"
+      },
+      {
+        "id": "2I",
+        "status": "available",
+        "plan": "planimetrite/1747853553111-771057190.png",
+        "redFloorPlan": "floorplans/1747853553113-744224680.png",
+        "greenFloorPlan": "floorplans/1747853553118-191988384.png"
+      },
+      {
+        "id": "2J",
+        "status": "available",
+        "plan": "planimetrite/1747853711778-851516596.png",
+        "redFloorPlan": "floorplans/1747853711780-61446636.png",
+        "greenFloorPlan": "floorplans/1747853711785-811115277.png"
+      },
+      {
+        "id": "2K",
+        "status": "available",
+        "plan": "planimetrite/1747853796317-737346239.png",
+        "redFloorPlan": "floorplans/1747853796319-840174561.png",
+        "greenFloorPlan": "floorplans/1747853796322-328299314.png"
+      },
+      {
+        "id": "2L",
+        "status": "available",
+        "plan": "planimetrite/1747853925077-948153083.png",
+        "redFloorPlan": "floorplans/1747853925079-618241683.png",
+        "greenFloorPlan": "floorplans/1747853925084-593364952.png"
+      },
+      {
+        "id": "2M",
+        "status": "available",
+        "plan": "planimetrite/1747854014490-428194243.png",
+        "redFloorPlan": "floorplans/1747854014492-642307732.png",
+        "greenFloorPlan": "floorplans/1747854014497-450747338.png"
+      },
+      {
+        "id": "2N",
+        "status": "available",
+        "plan": "planimetrite/1747854153627-824561136.png",
+        "redFloorPlan": "floorplans/1747854153629-721126486.png",
+        "greenFloorPlan": "floorplans/1747854153634-658832164.png"
+      }
+    ],
+    "3": [
+      {
+        "id": "3A",
+        "status": "available",
+        "plan": "planimetrite/1747851396788-654681025.png",
+        "redFloorPlan": "floorplans/1747851396792-306996835.png",
+        "greenFloorPlan": "floorplans/1747851396795-770185730.png"
+      },
+      {
+        "id": "3B",
+        "status": "available",
+        "plan": "planimetrite/1747851745797-32614061.png",
+        "redFloorPlan": "floorplans/1747851745799-433782062.png",
+        "greenFloorPlan": "floorplans/1747851745802-672595834.png"
+      },
+      {
+        "id": "3C",
+        "status": "available",
+        "plan": "planimetrite/1747851833770-186138687.png",
+        "redFloorPlan": "floorplans/1747851833773-382596045.png",
+        "greenFloorPlan": "floorplans/1747851833777-601847986.png"
+      },
+      {
+        "id": "3D",
+        "status": "available",
+        "plan": "planimetrite/1747852201639-450254773.png",
+        "redFloorPlan": "floorplans/1747852201642-375787132.png",
+        "greenFloorPlan": "floorplans/1747852201646-697767214.png"
+      },
+      {
+        "id": "3E",
+        "status": "available",
+        "plan": "planimetrite/1747852355215-450258278.png",
+        "redFloorPlan": "floorplans/1747852355218-51157997.png",
+        "greenFloorPlan": "floorplans/1747852355222-56016140.png"
+      },
+      {
+        "id": "3F",
+        "status": "available",
+        "plan": "planimetrite/1747852969867-393457438.png",
+        "redFloorPlan": "floorplans/1747852969870-804847549.png",
+        "greenFloorPlan": "floorplans/1747852969877-375225281.png"
+      },
+      {
+        "id": "3G",
+        "status": "available",
+        "plan": "planimetrite/1747853252625-520774919.png",
+        "redFloorPlan": "floorplans/1747853252628-170940883.png",
+        "greenFloorPlan": "floorplans/1747853252633-761312999.png"
+      },
+      {
+        "id": "3H",
+        "status": "available",
+        "plan": "planimetrite/1747853353548-887835007.png",
+        "redFloorPlan": "floorplans/1747853353589-269974733.png",
+        "greenFloorPlan": "floorplans/1747853353632-568605330.png"
+      },
+      {
+        "id": "3I",
+        "status": "available",
+        "plan": "planimetrite/1747853570043-930154488.png",
+        "redFloorPlan": "floorplans/1747853570046-289403746.png",
+        "greenFloorPlan": "floorplans/1747853570071-775208877.png"
+      },
+      {
+        "id": "3J",
+        "status": "available",
+        "plan": "planimetrite/1747853722340-658485580.png",
+        "redFloorPlan": "floorplans/1747853722341-531292073.png",
+        "greenFloorPlan": "floorplans/1747853722347-687987753.png"
+      },
+      {
+        "id": "3K",
+        "status": "available",
+        "plan": "planimetrite/1747853810059-152171212.png",
+        "redFloorPlan": "floorplans/1747853810061-44580397.png",
+        "greenFloorPlan": "floorplans/1747853810066-923959703.png"
+      },
+      {
+        "id": "3L",
+        "status": "available",
+        "plan": "planimetrite/1747853948642-59626940.png",
+        "redFloorPlan": "floorplans/1747853948644-639721421.png",
+        "greenFloorPlan": "floorplans/1747853948648-402624344.png"
+      },
+      {
+        "id": "3M",
+        "status": "available",
+        "plan": "planimetrite/1747854029507-755551945.png",
+        "redFloorPlan": "floorplans/1747854029510-997779405.png",
+        "greenFloorPlan": "floorplans/1747854029514-753213763.png"
+      },
+      {
+        "id": "3N",
+        "status": "available",
+        "plan": "planimetrite/1747854166301-248872660.png",
+        "redFloorPlan": "floorplans/1747854166303-612913733.png",
+        "greenFloorPlan": "floorplans/1747854166307-724017990.png"
+      }
+    ],
+    "4": [
+      {
+        "id": "4A",
+        "status": "available",
+        "plan": "planimetrite/1747851409303-941849766.png",
+        "redFloorPlan": "floorplans/1747851409306-572828490.png",
+        "greenFloorPlan": "floorplans/1747851409309-169302617.png"
+      },
+      {
+        "id": "4B",
+        "status": "available",
+        "plan": "planimetrite/1747851764091-610054656.png",
+        "redFloorPlan": "floorplans/1747851764093-71441666.png",
+        "greenFloorPlan": "floorplans/1747851764097-508671766.png"
+      },
+      {
+        "id": "4C",
+        "status": "available",
+        "plan": "planimetrite/1747851849692-909471163.png",
+        "redFloorPlan": "floorplans/1747851849694-140469112.png",
+        "greenFloorPlan": "floorplans/1747851849699-70592266.png"
+      },
+      {
+        "id": "4D",
+        "status": "available",
+        "plan": "planimetrite/1747852222307-397895660.png",
+        "redFloorPlan": "floorplans/1747852222309-623422418.png",
+        "greenFloorPlan": "floorplans/1747852222313-788123751.png"
+      },
+      {
+        "id": "4E",
+        "status": "available",
+        "plan": "planimetrite/1747852366529-52741892.png",
+        "redFloorPlan": "floorplans/1747852366531-730629411.png",
+        "greenFloorPlan": "floorplans/1747852366535-795841514.png"
+      },
+      {
+        "id": "4F",
+        "status": "available",
+        "plan": "planimetrite/1747852982148-957023782.png",
+        "redFloorPlan": "floorplans/1747852982151-988041092.png",
+        "greenFloorPlan": "floorplans/1747852982156-987517948.png"
+      },
+      {
+        "id": "4G",
+        "status": "available",
+        "plan": "planimetrite/1747853263546-26686184.png",
+        "redFloorPlan": "floorplans/1747853263549-774143935.png",
+        "greenFloorPlan": "floorplans/1747853263553-486922590.png"
+      },
+      {
+        "id": "4H",
+        "status": "available",
+        "plan": "planimetrite/1747853365876-162582038.png",
+        "redFloorPlan": "floorplans/1747853365878-498457286.png",
+        "greenFloorPlan": "floorplans/1747853365882-378440048.png"
+      },
+      {
+        "id": "4I",
+        "status": "available",
+        "plan": "planimetrite/1747853582736-128493866.png",
+        "redFloorPlan": "floorplans/1747853582738-420524782.png",
+        "greenFloorPlan": "floorplans/1747853582741-227080994.png"
+      },
+      {
+        "id": "4J",
+        "status": "available",
+        "plan": "planimetrite/1747853732685-986793014.png",
+        "redFloorPlan": "floorplans/1747853732687-164369869.png",
+        "greenFloorPlan": "floorplans/1747853732693-304796290.png"
+      },
+      {
+        "id": "4K",
+        "status": "available",
+        "plan": "planimetrite/1747853821135-198621015.png",
+        "redFloorPlan": "floorplans/1747853821138-55698253.png",
+        "greenFloorPlan": "floorplans/1747853821142-551377856.png"
+      },
+      {
+        "id": "4L",
+        "status": "available",
+        "plan": "planimetrite/1747853960196-440374101.png",
+        "redFloorPlan": "floorplans/1747853960198-109503513.png",
+        "greenFloorPlan": "floorplans/1747853960201-515190713.png"
+      },
+      {
+        "id": "4M",
+        "status": "available",
+        "plan": "planimetrite/1747854084080-755657076.png",
+        "redFloorPlan": "floorplans/1747854084087-127153889.png",
+        "greenFloorPlan": "floorplans/1747854084090-157983635.png"
+      },
+      {
+        "id": "4N",
+        "status": "available",
+        "plan": "planimetrite/1747854177629-489649260.png",
+        "redFloorPlan": "floorplans/1747854177631-597149667.png",
+        "greenFloorPlan": "floorplans/1747854177635-992478503.png"
+      }
+    ],
+    "5": [
+      {
+        "id": "5A",
+        "status": "available",
+        "plan": "planimetrite/1747851423149-955972111.png",
+        "redFloorPlan": "floorplans/1747851423152-942636154.png",
+        "greenFloorPlan": "floorplans/1747851423156-391919420.png"
+      },
+      {
+        "id": "5B",
+        "status": "available",
+        "plan": "planimetrite/1747851775161-285483462.png",
+        "redFloorPlan": "floorplans/1747851775163-17766334.png",
+        "greenFloorPlan": "floorplans/1747851775166-261517055.png"
+      },
+      {
+        "id": "5C",
+        "status": "available",
+        "plan": "planimetrite/1747851862824-110787055.png",
+        "redFloorPlan": "floorplans/1747851862826-418504166.png",
+        "greenFloorPlan": "floorplans/1747851862830-783535570.png"
+      },
+      {
+        "id": "5D",
+        "status": "available",
+        "plan": "planimetrite/1747852233845-990868291.png",
+        "redFloorPlan": "floorplans/1747852233848-263110455.png",
+        "greenFloorPlan": "floorplans/1747852233852-160746287.png"
+      },
+      {
+        "id": "5E",
+        "status": "available",
+        "plan": "planimetrite/1747852377840-789833513.png",
+        "redFloorPlan": "floorplans/1747852377844-686833820.png",
+        "greenFloorPlan": "floorplans/1747852377849-90797239.png"
+      },
+      {
+        "id": "5F",
+        "status": "available",
+        "plan": "planimetrite/1747852998094-122558012.png",
+        "redFloorPlan": "floorplans/1747852998096-940085778.png",
+        "greenFloorPlan": "floorplans/1747852998100-73218106.png"
+      },
+      {
+        "id": "5G",
+        "status": "available",
+        "plan": "planimetrite/1747853275290-763842401.png",
+        "redFloorPlan": "floorplans/1747853275293-908918302.png",
+        "greenFloorPlan": "floorplans/1747853275298-668782294.png"
+      },
+      {
+        "id": "5H",
+        "status": "available",
+        "plan": "planimetrite/1747853382647-443965725.png",
+        "redFloorPlan": "floorplans/1747853382650-984116783.png",
+        "greenFloorPlan": "floorplans/1747853382657-323371750.png"
+      },
+      {
+        "id": "5I",
+        "status": "available",
+        "plan": "planimetrite/1747853596390-667409537.png",
+        "redFloorPlan": "floorplans/1747853596392-208534079.png",
+        "greenFloorPlan": "floorplans/1747853596395-79675740.png"
+      },
+      {
+        "id": "5J",
+        "status": "available",
+        "plan": "planimetrite/1747853743914-817427720.png",
+        "redFloorPlan": "floorplans/1747853743916-65237828.png",
+        "greenFloorPlan": "floorplans/1747853743921-283176844.png"
+      },
+      {
+        "id": "5K",
+        "status": "available",
+        "plan": "planimetrite/1747853834005-176260314.png",
+        "redFloorPlan": "floorplans/1747853834007-431913591.png",
+        "greenFloorPlan": "floorplans/1747853834013-511964053.png"
+      },
+      {
+        "id": "5L",
+        "status": "available",
+        "plan": "planimetrite/1747853971158-478375184.png",
+        "redFloorPlan": "floorplans/1747853971159-511436401.png",
+        "greenFloorPlan": "floorplans/1747853971163-364274221.png"
+      },
+      {
+        "id": "5M",
+        "status": "available",
+        "plan": "planimetrite/1747854098095-623307895.png",
+        "redFloorPlan": "floorplans/1747854098097-819953370.png",
+        "greenFloorPlan": "floorplans/1747854098105-515094734.png"
+      },
+      {
+        "id": "5N",
+        "status": "available",
+        "plan": "planimetrite/1747854191556-736644847.png",
+        "redFloorPlan": "floorplans/1747854191558-443267250.png",
+        "greenFloorPlan": "floorplans/1747854191563-316097809.png"
+      }
+    ],
+    "6": [
+      {
+        "id": "6A",
+        "status": "available",
+        "plan": "planimetrite/1747851461599-818905624.png",
+        "redFloorPlan": "floorplans/1747851461602-625492583.png",
+        "greenFloorPlan": "floorplans/1747851461607-630152084.png"
+      },
+      {
+        "id": "6B",
+        "status": "available",
+        "plan": "planimetrite/1747851788170-976399869.png",
+        "redFloorPlan": "floorplans/1747851788172-744560006.png",
+        "greenFloorPlan": "floorplans/1747851788176-887100892.png"
+      },
+      {
+        "id": "6C",
+        "status": "available",
+        "plan": "planimetrite/1747851876643-701908119.png",
+        "redFloorPlan": "floorplans/1747851876646-186395923.png",
+        "greenFloorPlan": "floorplans/1747851876650-681306862.png"
+      },
+      {
+        "id": "6D",
+        "status": "available",
+        "plan": "planimetrite/1747852245628-114697869.png",
+        "redFloorPlan": "floorplans/1747852245631-143599756.png",
+        "greenFloorPlan": "floorplans/1747852245635-736321273.png"
+      },
+      {
+        "id": "6E",
+        "status": "available",
+        "plan": "planimetrite/1747852391589-707492835.png",
+        "redFloorPlan": "floorplans/1747852391591-766708183.png",
+        "greenFloorPlan": "floorplans/1747852391596-720877622.png"
+      },
+      {
+        "id": "6F",
+        "status": "available",
+        "plan": "planimetrite/1747853010897-276554184.png",
+        "redFloorPlan": "floorplans/1747853010899-625883097.png",
+        "greenFloorPlan": "floorplans/1747853010905-930066590.png"
+      },
+      {
+        "id": "6G",
+        "status": "available",
+        "plan": "planimetrite/1747853290767-293010239.png",
+        "redFloorPlan": "floorplans/1747853290769-721628707.png",
+        "greenFloorPlan": "floorplans/1747853290772-61676977.png"
+      },
+      {
+        "id": "6H",
+        "status": "available",
+        "plan": "planimetrite/1747853475612-314747807.png",
+        "redFloorPlan": "floorplans/1747853475614-389315055.png",
+        "greenFloorPlan": "floorplans/1747853475616-790908453.png"
+      },
+      {
+        "id": "6I",
+        "status": "available",
+        "plan": "planimetrite/1747853615564-164448862.png",
+        "redFloorPlan": "floorplans/1747853615565-941209770.png",
+        "greenFloorPlan": "floorplans/1747853615569-694879462.png"
+      },
+      {
+        "id": "6J",
+        "status": "available",
+        "plan": "planimetrite/1747853755615-734990703.png",
+        "redFloorPlan": "floorplans/1747853755617-810939578.png",
+        "greenFloorPlan": "floorplans/1747853755622-862272158.png"
+      },
+      {
+        "id": "6K",
+        "status": "available",
+        "plan": "planimetrite/1747853862483-696888015.png",
+        "redFloorPlan": "floorplans/1747853862485-719077770.png",
+        "greenFloorPlan": "floorplans/1747853862489-845642664.png"
+      },
+      {
+        "id": "6L",
+        "status": "available",
+        "plan": "planimetrite/1747853984702-256704642.png",
+        "redFloorPlan": "floorplans/1747853984704-463023116.png",
+        "greenFloorPlan": "floorplans/1747853984708-480864441.png"
+      },
+      {
+        "id": "6M",
+        "status": "available",
+        "plan": "planimetrite/1747854113231-333355073.png",
+        "redFloorPlan": "floorplans/1747854113234-748091270.png",
+        "greenFloorPlan": "floorplans/1747854113247-696486991.png"
+      },
+      {
+        "id": "6N",
+        "status": "available",
+        "plan": "planimetrite/1747854213049-173254616.png",
+        "redFloorPlan": "floorplans/1747854213052-878506733.png",
+        "greenFloorPlan": "floorplans/1747854213056-32882663.png"
+      }
+    ],
+    "7": [
+      {
+        "id": "7A",
+        "status": "available",
+        "plan": "planimetrite/1747916520858-799617229.png",
+        "redFloorPlan": "floorplans/1747916520873-17113503.png",
+        "greenFloorPlan": "floorplans/1747916520877-691713509.png"
+      },
+      {
+        "id": "7B",
+        "status": "available",
+        "plan": "planimetrite/1747916535875-386104327.png",
+        "redFloorPlan": "floorplans/1747916535877-344869440.png",
+        "greenFloorPlan": "floorplans/1747916535881-465408957.png"
+      },
+      {
+        "id": "7C",
+        "status": "available",
+        "plan": "planimetrite/1747916550513-235818.png",
+        "redFloorPlan": "floorplans/1747916550516-35457312.png",
+        "greenFloorPlan": "floorplans/1747916550521-538261235.png"
+      },
+      {
+        "id": "7D",
+        "status": "available",
+        "plan": "planimetrite/1747916565127-708653237.png",
+        "redFloorPlan": "floorplans/1747916565129-916765193.png",
+        "greenFloorPlan": "floorplans/1747916565133-86217915.png"
+      },
+      {
+        "id": "7E",
+        "status": "available",
+        "plan": "planimetrite/1747916586461-167949419.png",
+        "redFloorPlan": "floorplans/1747916586463-481222425.png",
+        "greenFloorPlan": "floorplans/1747916586466-216781068.png"
+      },
+      {
+        "id": "7F",
+        "status": "available",
+        "plan": "planimetrite/1747916614290-386284850.png",
+        "redFloorPlan": "floorplans/1747916614298-150932962.png",
+        "greenFloorPlan": "floorplans/1747916614304-733098030.png"
+      },
+      {
+        "id": "7G",
+        "status": "available",
+        "plan": "planimetrite/1747916637035-301919915.png",
+        "redFloorPlan": "floorplans/1747916637038-778794550.png",
+        "greenFloorPlan": "floorplans/1747916637041-60187879.png"
+      },
+      {
+        "id": "7H",
+        "status": "available",
+        "plan": "planimetrite/1747916654129-553452643.png",
+        "redFloorPlan": "floorplans/1747916654131-907155325.png",
+        "greenFloorPlan": "floorplans/1747916654134-340470338.png"
+      },
+      {
+        "id": "7I",
+        "status": "available",
+        "plan": "planimetrite/1747916670531-783178862.png",
+        "redFloorPlan": "floorplans/1747916670533-347227666.png",
+        "greenFloorPlan": "floorplans/1747916670536-88181916.png"
+      },
+      {
+        "id": "7J",
+        "status": "available",
+        "plan": "planimetrite/1747916686463-384579917.png",
+        "redFloorPlan": "floorplans/1747916686465-849634132.png",
+        "greenFloorPlan": "floorplans/1747916686469-364055503.png"
+      },
+      {
+        "id": "7K",
+        "status": "available",
+        "plan": "planimetrite/1747916701857-688782478.png",
+        "redFloorPlan": "floorplans/1747916701859-36789881.png",
+        "greenFloorPlan": "floorplans/1747916701863-492276523.png"
+      },
+      {
+        "id": "7L",
+        "status": "available",
+        "plan": "planimetrite/1747916717654-170366450.png",
+        "redFloorPlan": "floorplans/1747916717656-341698409.png",
+        "greenFloorPlan": "floorplans/1747916717661-964184110.png"
+      },
+      {
+        "id": "7M",
+        "status": "available",
+        "plan": "planimetrite/1747916733707-263114677.png",
+        "redFloorPlan": "floorplans/1747916733709-155296155.png",
+        "greenFloorPlan": "floorplans/1747916733712-850586503.png"
+      }
+    ],
+    "8": [
+      {
+        "id": "8A",
+        "status": "available",
+        "plan": "planimetrite/1747916963976-831360186.png",
+        "redFloorPlan": "floorplans/1747916963978-446457162.png",
+        "greenFloorPlan": "floorplans/1747916963983-536792301.png"
+      },
+      {
+        "id": "8B",
+        "status": "available",
+        "plan": "planimetrite/1747916983026-425384235.png",
+        "redFloorPlan": "floorplans/1747916983028-326442088.png",
+        "greenFloorPlan": "floorplans/1747916983031-185251363.png"
+      },
+      {
+        "id": "8C",
+        "status": "available",
+        "plan": "planimetrite/1747916999280-425525911.png",
+        "redFloorPlan": "floorplans/1747916999281-872333957.png",
+        "greenFloorPlan": "floorplans/1747916999285-416021567.png"
+      },
+      {
+        "id": "8D",
+        "status": "available",
+        "plan": "planimetrite/1747917016249-355119101.png",
+        "redFloorPlan": "floorplans/1747917016251-972401474.png",
+        "greenFloorPlan": "floorplans/1747917016254-711272487.png"
+      },
+      {
+        "id": "8E",
+        "status": "available",
+        "plan": "planimetrite/1747917031982-23594175.png",
+        "redFloorPlan": "floorplans/1747917031983-773363764.png",
+        "greenFloorPlan": "floorplans/1747917031986-228621373.png"
+      },
+      {
+        "id": "8F",
+        "status": "available",
+        "plan": "planimetrite/1747917049782-704977138.png",
+        "redFloorPlan": "floorplans/1747917049784-4472084.png",
+        "greenFloorPlan": "floorplans/1747917049787-369619599.png"
+      },
+      {
+        "id": "8G",
+        "status": "available",
+        "plan": "planimetrite/1747917069219-707628598.png",
+        "redFloorPlan": "floorplans/1747917069222-712804480.png",
+        "greenFloorPlan": "floorplans/1747917069226-633401588.png"
+      },
+      {
+        "id": "8H",
+        "status": "available",
+        "plan": "planimetrite/1747917091371-874335026.png",
+        "redFloorPlan": "floorplans/1747917091373-266983059.png",
+        "greenFloorPlan": "floorplans/1747917091377-990228939.png"
+      },
+      {
+        "id": "8I",
+        "status": "available",
+        "plan": "planimetrite/1747917105006-896938606.png",
+        "redFloorPlan": "floorplans/1747917105008-998880732.png",
+        "greenFloorPlan": "floorplans/1747917105012-454225234.png"
+      },
+      {
+        "id": "8J",
+        "status": "available",
+        "plan": "planimetrite/1747917153046-904880217.png",
+        "redFloorPlan": "floorplans/1747917153056-853655492.png",
+        "greenFloorPlan": "floorplans/1747917153060-197316296.png"
+      }
+    ],
+    "9": [
+      {
+        "id": "9A",
+        "status": "available",
+        "plan": "planimetrite/1747917353344-981620201.png",
+        "redFloorPlan": "floorplans/1747917353347-295318773.png",
+        "greenFloorPlan": "floorplans/1747917353350-763587648.png"
+      },
+      {
+        "id": "9B",
+        "status": "available",
+        "plan": "planimetrite/1747917365849-407204017.png",
+        "redFloorPlan": "floorplans/1747917365851-506575724.png",
+        "greenFloorPlan": "floorplans/1747917365853-308645445.png"
+      },
+      {
+        "id": "9C",
+        "status": "available",
+        "plan": "planimetrite/1747917379572-64635619.png",
+        "redFloorPlan": "floorplans/1747917379573-335970406.png",
+        "greenFloorPlan": "floorplans/1747917379576-116025371.png"
+      },
+      {
+        "id": "9D",
+        "status": "available",
+        "plan": "planimetrite/1747917395630-455204397.png",
+        "redFloorPlan": "floorplans/1747917395631-570984600.png",
+        "greenFloorPlan": "floorplans/1747917395634-634833487.png"
+      },
+      {
+        "id": "9E",
+        "status": "available",
+        "plan": "planimetrite/1747917411147-135502585.png",
+        "redFloorPlan": "floorplans/1747917411151-411441435.png",
+        "greenFloorPlan": "floorplans/1747917411153-176799464.png"
+      },
+      {
+        "id": "9F",
+        "status": "available",
+        "plan": "planimetrite/1747917426833-286531216.png",
+        "redFloorPlan": "floorplans/1747917426834-75053390.png",
+        "greenFloorPlan": "floorplans/1747917426837-811569164.png"
+      },
+      {
+        "id": "9G",
+        "status": "available",
+        "plan": "planimetrite/1747917470594-67509032.png",
+        "redFloorPlan": "floorplans/1747917470596-130599737.png",
+        "greenFloorPlan": "floorplans/1747917470598-295454917.png"
+      }
+    ]
+  }
+}

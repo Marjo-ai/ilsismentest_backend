@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "RiverPark Residence",
+    "masterplan": "masterplans/1745058221247-449220272.png",
+    "numberOfBuildings": 2,
+    "buildings": [
+      {
+        "id": "Pallati 1",
+        "floors": 13,
+        "render": "renders/1747311786733-786438856.png"
+      },
+      {
+        "id": "Pallati 11",
+        "floors": 12,
+        "render": "renders/1747850944443-861875042.png"
+      }
+    ]
+  }
+]
