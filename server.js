@@ -25,43 +25,7 @@ app.use((req, res, next) => {
 });
 
 // Konfigurimi i multer për ngarkimin e skedarëve
-const storage = multer.diskStorage({
-  destination: async (req, file, cb) => {
-    // Sigurohu që drejtoria ekziston
-    let dir;
-    if (file.fieldname === 'masterplan') {
-      dir = 'masterplans/';
-    } else if (file.fieldname === 'file' && req.url.includes('floorplans')) {
-      dir = 'floorplans/';
-    } else if (file.fieldname === 'file' || file.fieldname === 'redFloorPlan' || file.fieldname === 'greenFloorPlan') {
-      dir = file.fieldname === 'file' ? 'planimetrite/' : 'floorplans/';
-    } else if (file.fieldname === 'render') {
-      dir = 'renders/';
-    } else {
-      dir = 'uploads/';
-    }
-    try {
-      await fs.mkdir(dir, { recursive: true });
-      console.log(`Drejtoria ${dir} u krijua ose ekziston tashmë.`);
-      cb(null, dir);
-    } catch (error) {
-      console.error(`Dështoi krijimi i drejtorisë ${dir}:`, error);
-      cb(error);
-    }
-  },
-  filename: (req, file, cb) => {
-    // Validimi i file.originalname
-    if (!file || !file.originalname) {
-      console.error('Skedari ose file.originalname është undefined:', file);
-      return cb(new Error('Skedari i ngarkuar është i pavlefshëm ose mungon emri i origjinal.'));
-    }
-    // Gjeneron emër unik për skedarin
-    const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1E9);
-    const extension = path.extname(file.originalname);
-    console.log(`Gjenerohet emri i skedarit: ${uniqueSuffix}${extension} për skedarin origjinal: ${file.originalname}`);
-    cb(null, uniqueSuffix + extension);
-  }
-});
+const storage = multer.memoryStorage();
 
 const upload = multer({
   storage: storage,
