@@ -8,9 +8,9 @@ const app = express();
 
 // Configure Cloudinary
 cloudinary.config({
-  cloud_name: "Root",
-  api_key: "563938733716558",
-  api_secret: "Z-Kngtn_YYhb8nkJ_kPMuvjXmr8"
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME || "drwjmymb3",
+  api_key: process.env.CLOUDINARY_API_KEY || "563938733716558",
+  api_secret: process.env.CLOUDINARY_API_SECRET || "Z-Kngtn_YYhb8nkJ_kPMuvjXmr8"
 });
 
 app.use(cors({
@@ -149,36 +149,42 @@ app.post('/projects', authenticate, restrictVisitors, upload.single('masterplan'
     }
 
     // Upload to Cloudinary
-    const result = await cloudinary.uploader.upload_stream({
-      folder: 'masterplans',
-      resource_type: 'auto'
-    }, async (error, result) => {
-      if (error) {
-        console.error('Error uploading to Cloudinary:', error);
-        return res.status(500).json({ success: false, error: 'Failed to upload file' });
-      }
+    const uploadPromise = new Promise((resolve, reject) => {
+      const uploadStream = cloudinary.uploader.upload_stream(
+        {
+          folder: 'masterplans',
+          resource_type: 'auto'
+        },
+        (error, result) => {
+          if (error) reject(error);
+          else resolve(result);
+        }
+      );
+      uploadStream.end(req.file.buffer);
+    });
 
-      const projects = await readJsonFile('projects.json', []);
-      const projectId = projects.length ? Math.max(...projects.map(p => p.id)) + 1 : 1;
-      const newProject = {
-        id: projectId,
-        name,
-        masterplan: result.secure_url, // Store the Cloudinary URL
-        numberOfBuildings: parseInt(numberOfBuildings),
-        buildings: Array.from({ length: parseInt(numberOfBuildings) }, (_, i) => ({
-          id: `Pallati ${i + 1}`,
-          floors: 0,
-          render: null
-        }))
-      };
-      projects.push(newProject);
-      await writeJsonFile('projects.json', projects);
+    const result = await uploadPromise;
 
-      await writeJsonFile(`apartments_project${projectId}.json`, {});
-      await writeJsonFile(`floorplans_project${projectId}.json`, {});
+    const projects = await readJsonFile('projects.json', []);
+    const projectId = projects.length ? Math.max(...projects.map(p => p.id)) + 1 : 1;
+    const newProject = {
+      id: projectId,
+      name,
+      masterplan: result.secure_url, // Store the Cloudinary URL
+      numberOfBuildings: parseInt(numberOfBuildings),
+      buildings: Array.from({ length: parseInt(numberOfBuildings) }, (_, i) => ({
+        id: `Pallati ${i + 1}`,
+        floors: 0,
+        render: null
+      }))
+    };
+    projects.push(newProject);
+    await writeJsonFile('projects.json', projects);
 
-      res.json({ success: true });
-    }).end(req.file.buffer);
+    await writeJsonFile(`apartments_project${projectId}.json`, {});
+    await writeJsonFile(`floorplans_project${projectId}.json`, {});
+
+    res.json({ success: true });
   } catch (error) {
     console.error('Gabim gjatë shtimit të projektit:', error);
     res.status(500).json({ success: false, error: error.message });
