@@ -2,9 +2,17 @@ const express = require('express');
 const fs = require('fs').promises;
 const path = require('path');
 const multer = require('multer');
+const cors = require('cors');
 const app = express();
 
+
+app.use(cors({
+  origin: '*', // Or replace with 'http://localhost:3000' for specific origin
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  allowedHeaders: ['Authorization', 'X-User-Role', 'Content-Type']
+}));
 // Konfigurimi i Express për të trajtuar JSON dhe skedarët statikë
+
 app.use(express.json());
 app.use(express.static('.'));
 
